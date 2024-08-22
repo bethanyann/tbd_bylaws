@@ -2,7 +2,7 @@
 
 ## Vision
 
-> We are a worker cooperative that builds technology in service of **\_\_**. We desire to build relationships and technology to \_\_\_\_ and build cooperation. We are a women-founded tech collective that desires to turn the table on what some areas of tech have become: loosing sight of having fun, building things that improve user's lives and give back to communities who need it most over financial gain.
+> We are a worker cooperative that builds technology in service of **\_\_**. We desire to build relationships and technology to \_\_\_\_ and build cooperation. We are a women-founded & led tech collective that desires to flip the table on what some areas of tech have become in recent years. We desire to bring the fun back into building tech by taking on projects that improve users' lives and give back to communities who need it most over prioritizing financial gain.
 
 1. Interdependent Abundance
    - We wish to have the ability to say "yes" to projects that delight us, and to say "no" to projects that we belive will not be beneficial or serve our overall purpose

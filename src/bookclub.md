@@ -10,6 +10,7 @@
 - [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://web.archive.org/web/20220324081516/https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf)
 - [A List of Tech Co-Ops and Resources Concerning Tech Co-Ops & Worker-Owned Cooperatives](https://tech-coops.xyz/)
 - [Annual Meeting Toolkit for Cooperatives](https://www.cooperative.com/programs-services/communications/toolkits-and-samples/annual-meeting-toolkit/Pages/default.aspx)
+- [Cooperative Bylaws Resources](https://www.co-oplaw.org/knowledge-base/cooperative-bylaws/)
 
 ### User Development & Research
 
