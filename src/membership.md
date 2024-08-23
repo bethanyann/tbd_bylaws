@@ -22,11 +22,11 @@
 
 **The founding members of the co-op are: **
 
-1. The slack channel has an #about-me canvas that has details about each member-owner, including their tech stack or desired role within the cooperative as well as their current time zone
+1. The slack channel has an #about-me canvas that has details about each member-owner, including their tech stack or desired role within the cooperative as well as their current time zone. This will be maintained as new members join or members leave.
 
 ## Expected Level of Effort
 
-1. Each member will be expected to attempt to work a minimum of ten (10) hours per week for the co-op unless a special exemption is requested.
+1. Each member shall work a minimum of five (5) hours per week for those who are designated as part-time members, and a minimum of ten (10) hours per week for the members who are designated as full-time for the co-op unless a special exemption is granted by a decision of the members.
    - These hours will include billable time towards client work as well as time towards each members defined role
 2. A member's level of effort shall be calculated _quarterly_ by computing the average number of hours worked per week in that quarter
 
@@ -51,7 +51,7 @@
   - Lead:
 - **Cooperative Operations**
   - Definition of Role:
-  - Lead:
+  - Lead: Violet
 
 1. At any time the assigned lead can request to step down from their responsibilities, ask another member to co-lead with them to balance the load, or switch with another member to take on an alternate lead role.
 2. The above definitions are not a hard line, and can include or involve more or less within each role as time passes or other items come up that would fall under each role's umbrella title.
@@ -59,7 +59,11 @@
 
 ## Wages
 
+1. The operating rules shall establish a wage policy that governs how wages are set.
+
 ## Benefits
+
+1. If and when the co-op is able to provide healthcare coverage, each member of the co-op and their eligible family members shall be entitled to coverage under a co-op provided healthcare policy.
 
 ## Member Resignation
 
