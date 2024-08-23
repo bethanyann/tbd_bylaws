@@ -2,7 +2,7 @@
 
 ## Vision
 
-> We are a worker cooperative that builds technology in service of **\_\_**. We desire to build relationships and technology to \_\_\_\_ and build cooperation. We are a women-founded tech collective that desires to turn the table on what some areas of tech have become: loosing sight of having fun, building things that improve user's lives and give back to communities who need it most over financial gain.
+> We are a worker cooperative that builds technology in service of **\_\_**. We desire to build relationships and technology to \_\_\_\_ and build cooperation. We are a women-founded & led tech collective that desires to flip the table on what some areas of tech have become in recent years. We desire to bring the fun back into building tech by taking on projects that improve users' lives and give back to communities who need it most over prioritizing financial gain.
 
 1. Interdependent Abundance
    - We wish to have the ability to say "yes" to projects that delight us, and to say "no" to projects that we belive will not be beneficial or serve our overall purpose
@@ -29,7 +29,7 @@ The co-op’s chief purposes shall be:
 2. The co-op shall be democratically controlled by its members for their mutual benefit, and not primarily for the purpose of profit for its own sake.
 3. The co-op shall be committed to building a safe, joyful, anti-oppressive and supportive space in which members can successfully complete their work.
 4. The co-op shall strive to create a work environment that is empowering of people of color of all genders, women, genderqueer people, and people with disabilities.
-5. The co-op shall strive to work on projects that do not reinforce any oppression, violence, racisim, sexism, and optimally, projects that work to combat these in our society.
+5. The co-op shall strive to work on projects that do not reinforce any systemic oppression, violence, racisim, sexism, and optimally, projects that work to combat these systems in our society.
 6. The co-op believes in computing justice, including but not limited to the ability for people to see and change the code that runs their software. We further endeavor to contribute back to the open source community by sharing useful code and by choosing, and encouraging clients to choose, open source licenses wherever and whenever possible.
 7. The co-op shall be run according to the cooperative identity statement as set down by the [International Cooperative Alliance](https://ica.coop/en/cooperatives/cooperative-identity), including the values of self-help, self-responsibility, democracy, equality, equity and solidarity, and the following principles:
 

@@ -1,6 +1,6 @@
 # Co-Op Tools
 
-## Communication Tools & Usage
+## Communication Tools
 
 - Slack
 - Fastmail/ProtonMail
@@ -8,7 +8,7 @@
 
 ## Marketing Tools
 
-- We haven't discussed this much yet. Can be amended later on
+- _We haven't discussed this much yet. Can be amended later on_
 
 ## Development & Project Management Tools
 
