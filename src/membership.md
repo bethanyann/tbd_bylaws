@@ -13,10 +13,9 @@
 1. A Prospective membership period of at least four (4) months shall be completed before a prospective member can be considered for membership.
 2. Prospective members must work at least sixty (60) hours for the co-op during the Prospective membership period.
 3. Prospective members are not entitled to vote on decisions of the co-op, but are expected to attend and participate in meetings (unless specifically asked not to by the members).
-4.
-5. If a former member reapplies to become an employee of TBD, the co-op may waive the Prospective Membership period.
+4. If a former member reapplies to become an employee of TBD, the co-op may waive the Prospective Membership period.
 
-## Acceptance of Members
+# Acceptance of Members
 
 ## Founding Members
 
