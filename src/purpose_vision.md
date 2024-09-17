@@ -2,17 +2,18 @@
 
 ## Vision
 
-> We are a worker cooperative that builds technology in service of **\_\_**. We desire to build relationships and technology to \_\_\_\_ and build cooperation. We are a women-founded & led tech collective that desires to flip the table on what some areas of tech have become in recent years. We desire to bring the fun back into building tech by taking on projects that improve users' lives and give back to communities who need it most over prioritizing financial gain.
+> We are a worker cooperative that builds technology in service of those who use it. We desire to build relationships within our communities and create technology to help facilitiate and build cooperation. We are a women-founded & led tech collective that desires to flip the table on what some areas of tech have become in recent years. We desire to bring the fun back into software by taking on projects that improve users' lives and give back to our communities over prioritizing financial gain.
 
 1. Interdependent Abundance
-   - We wish to have the ability to say "yes" to projects that delight us, and to say "no" to projects that we belive will not be beneficial or serve our overall purpose
+   - We wish to have the ability to say "yes" to projects that delight us and to say "no" to projects that we belive will not be beneficial to nor serve our overall purpose
    - By sharing our values, we hope to connect our vision and offerings with those around us to create mutually beneficial relationships
 2. Always be Learning & Teaching
-   - We strive for nurting enviroments to foster creativity, so all members are supported to excel in their own personal journey
+   - We strive for nurting enviroments to foster creativity so all members are supported to excel in their own personal journey
    - In accordance with the COOP principle of 'Education, Training, and Information' we desire to provide all members the opportunity to learn and contribute
 3. Inclusive and Welcoming
-   - We desire to provide an umbrella under which those who have struggled to find success in toxic tech environments can find a place to learn, grow, create, and contribute according to what each member values and not confined to those of an employer
+   - We desire to provide an umbrella under which those who have struggled to find success in toxic tech environments can find a place to learn, grow, create, and contribute according to each individual's own value system and not be confined to those dictated by an employer
    - We wish developing a community that empowers marginalized groups to thrive while promoting the power of being part of a collaborative tech group
+   - We value inclusivity and accessiblity to all and belive the web is a better place when those values are kept at the forefront
 
 ## Purpose
 
@@ -21,7 +22,7 @@ The co-op’s chief purposes shall be:
 - to create and maintain tech that brings about more good in the world
 - to build a welcoming, inclusive technology hub of talent
 - to encourage ownership and pride in one's own work through a worker-owned cooperative model
-- to do so in a cooperative, equitable, fair and sustainable manner
+- to do so in a cooperative, equitable, fair and sustainable manner for all members
 
 ## Guiding Principles
 
