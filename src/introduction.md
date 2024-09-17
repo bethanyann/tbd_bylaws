@@ -33,3 +33,4 @@ Bylaws usually have:
 - process for dissolution of the cooperative;
 - provisions for indemnification of directors; and
 - the process for amending the bylaws.
+-

@@ -76,3 +76,5 @@
 1. The members by resolution may authorize any officer, officers, agent, or agents to enter into any contract or to execute any instrument in the name of and on behalf of the co-op. This authority may be general or it may be confined to one or more specific matters.
 2. No officer, agent, employee, or other person purporting to act on behalf of the co-op will have any power or authority to bind the co-op in any way, to pledge the co-op’s credit, or to render the co-op liable for any purpose or in any amount, unless that person was acting with authority granted by the members as provided in these Bylaws, or unless an unauthorized act was later ratified by the co-op.
 3. Duly authorized contracts may be signed by any member.
+
+-

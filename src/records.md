@@ -25,3 +25,5 @@ As required by the State of Kentucky, the co-op must file an annual report with 
 ### Amendment
 
 1. These Bylaws may be adopted, amended, or repealed at any time by resolution of the members as governed by voting or scheduled member staff meetings.
+
+-

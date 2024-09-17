@@ -41,3 +41,5 @@ The co-op’s chief purposes shall be:
 - Education, Training and Information
 - Co-operation among Co-operatives
 - Concern for Community
+
+-

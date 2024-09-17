@@ -10,4 +10,4 @@ Written rules, separate from these Bylaws, may be established by the members. Th
 
 ### Operating Agreement
 
-These Bylaws serve as the Operating Agreement for all members of the TBD Tech Cooperative Organization.
+## These Bylaws serve as the Operating Agreement for all members of the TBD Tech Cooperative Organization.

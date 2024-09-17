@@ -112,3 +112,4 @@ The format of the meeting is quite formal. There is a Toolkit that can be referr
 - clear instructions for specifying approval or disapproval;
 - the time by which the ballot must be received in order to be counted.
 - The scribe shall cause a vote to be taken by written ballot upon any action or recommendation proposed in writing by any member of the co-op.
+-
