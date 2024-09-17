@@ -99,3 +99,5 @@ See the Officer Roles [here](./officers.md) for reference
 ## Transferral of Membership
 
 1. No member may transfer their membership or any right arising therefrom. Any attempted assignment or transfer shall be wholly void and shall confer no rights on the intended assignee or transferee. All rights as a member of the co-op cease upon the member’s death.
+
+-

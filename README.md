@@ -3,7 +3,8 @@ This repository is built from an mdbook which is an open source command line too
 The documentation for mdbooks can be found here: https://rust-lang.github.io/mdBook/index.html
 
 In order to clone this repository and compile the book locally, you will need to have Rust installed as well as Cargo.
-To run, use the command `mdbook serve` in the main folder of the project (the folder where the book.toml file is stored)
+
+TO RUN: use the command `mdbook serve` in the main folder of the project (the folder where the book.toml file is stored)
 
 To make it easier to modify this book, you can clone it locally, make a feature branch and update the .md document files in the `src` folder.
 

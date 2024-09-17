@@ -44,3 +44,5 @@
 3. The mediator shall, provide, or cause to be provided, support for conflict transformation, aid in practicing anti-oppressive conflict transformation, and resources and support on maintaining a safe and positive working environment.
 4. The mediator shall provide, or cause to be provided, accessible ways for staff to raise questions and concerns about their work environment and receive support in identifying appropriate resolution steps, including by referral to an appropriate committee, process, and/or external support.
 5. The mediator shall be the main point of contact for any accessibility questions or inquiries on the cooperative’s website.
+
+-
