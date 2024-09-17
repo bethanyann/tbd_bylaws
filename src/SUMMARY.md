@@ -17,15 +17,21 @@
   - [Planning]()
   - [Sprints]()
   - [Co-Op Tools](./tools.md)
-  ***
 - [Membership](./membership.md)
   - [Meeting Cadence](./meeting_cadence.md)
   - [Officers](./officers.md)
   - [Conflict Resolution Resources & Process]()
   - [Internal Capital Account System](./capital_account.md)
   - [Professional Development]()
-  - [Health & Safety]()
-  ***
+
+---
+
+- [Client Guidelines](./clients.md)
+  - [Client Contracts](./client_contracts)
+  - [Client Payment Scheduling & Invoicing](./client_payments)
+
+---
+
 - [Other Guides]()
   - [Brand Guidelines](./brand_guidelines.md)
   - [Community Groups](./community_groups.md)

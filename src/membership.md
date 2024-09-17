@@ -1,4 +1,4 @@
-# Membership
+# Membership & Employment
 
 **A human person may become a member of the co-op by:**
 
@@ -19,38 +19,46 @@
 
 ## Founding Members
 
-**The founding members of the co-op are: **
+**The founding members of the co-op are:**
 
-1. The slack channel has an #about-me canvas that has details about each member-owner, including their tech stack or desired role within the cooperative as well as their current time zone. This will be maintained as new members join or members leave.
+- Violet Olds
+- Allie Q.
+- Sarah R.
+- Aria Stewart
+- Andreana R.
+- Nikki
+- Bethany
+- Liss
 
 ## Expected Level of Effort
 
-1. Each member shall work a minimum of five (5) hours per week for those who are designated as part-time members, and a minimum of ten (10) hours per week for the members who are designated as full-time for the co-op unless a special exemption is granted by a decision of the members.
-   - These hours will include billable time towards client work as well as time towards each members defined role
+### Defining membership type as Full-Time or Part-Time
+
+1. Each member shall work a minimum of five (5) hours per week for those who are designated as **_part-time_** members, and a minimum of ten (10) hours per week for the members who are designated as **_full-time_** for the co-op unless a special exemption is granted by a decision of the members.
+   - These hours will include billable time towards client work as well as time towards each members' optional defined role
 2. A member's level of effort shall be calculated _quarterly_ by computing the average number of hours worked per week in that quarter
 
 ## Member-Owner Roles
 
-**As discussed in early coop organization meetings, there are a few 'housekeeping' type tasks that will need to be performed regularly to keep the cooperative running smoothly. Below is a list of a few of the discussed roles, as well as the name of the member-owner who is currently taking point for the mentioned role**
+**As discussed in early coop organization meetings, there are a few 'housekeeping' type tasks that will need to be performed regularly to keep the cooperative running smoothly. Below is a list of a few of the discussed roles, as well as the name of the member-owner who is currently taking point for the mentioned role. These are different than the Co-Op Officer Roles as these are less official in definition and are moreso for the sake of keeping internal operations moving smoothly**
+
+See the Officer Roles [here](./officers.md) for reference
 
 - **Website Maintainer**
   - Definition of Role:
   - Lead:
 - **Client Contracts**
-  - Definition of Role:
+  - Definition of Role: Responsible for maintaining the contracts we give to potential clients, including but not limited to desiging the contracts and forming the language to be used to maintain standards and consistency with all of our clients
   - Lead:
 - **Social Media Marketing**
+  - Definition of Role: Responsible for posting about our co-op, work we've done, or work we are targeting in the future in order to generate interest and a lead funnel into our co-op for projects
+  - Lead:
+- **Branding & Design**
   - Definition of Role:
   - Lead:
-- **Branding & Designing of any cooperative assets needed**
-  - Definition of Role:
-  - Lead:
-- **Leads Checker Person (ok this needs a better title)**
+- **Lead Seeker**
   - Definition of Role: This role will involve checking any of the leads boards bookmarked in the #leads channel canvas to scope out any potential projects; This role might take a pause if all current member-owners have working projects occupying their time and no further projects can be taken on by any member-owners.
   - Lead:
-- **Cooperative Operations**
-  - Definition of Role:
-  - Lead: Violet
 
 1. At any time the assigned lead can request to step down from their responsibilities, ask another member to co-lead with them to balance the load, or switch with another member to take on an alternate lead role.
 2. The above definitions are not a hard line, and can include or involve more or less within each role as time passes or other items come up that would fall under each role's umbrella title.
