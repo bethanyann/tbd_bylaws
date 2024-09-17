@@ -18,9 +18,9 @@
 
 ### Annual Report
 
-As required by the State of Tennessee, the co-op must file an annual report with the Department of Licensing and Regulatory Affairs no later than February 15th of each year. The report so filed shall be added to the document repository.
+As required by the State of Kentucky, the co-op must file an annual report with the Secretary of State between January 1st and no later than June 30 of each year. The filed report shall be added to the document repository.
 
-- We need to double check what the requirements are for the state of Tennessee
+- We need to double check what the requirements are for the state of Kentucky
 
 ### Amendment
 
