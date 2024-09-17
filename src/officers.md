@@ -17,8 +17,8 @@
 ### Duties of Convenor
 
 1. The convenor shall lead the organization of the annual general meeting.
-2. The convenor shall cause staff meetings to be held at regular intervals.
-3. The convenor shall arrange for a qualified facilitator at each staff meeting.
+2. The convenor shall ensure staff meetings are held at regular intervals.
+3. The convenor shall arrange for a qualified facilitator at each staff meeting if they themselves cannot attend.
 4. The convenor shall give notice, or cause notice to be given, of all staff meetings for which notice is required by these Bylaws. If the convenor or other person authorized by the convenor to give notice fails to act, notice of any meeting may be given by any other member of the co-op.
 5. The convenor shall facilitate, or cause to be facilitated, asynchronous discussions on policy and encourage participation such that a proposal can be made and a decision reached.
 6. The convenor shall otherwise be responsible for ensuring that the policies and procedures for meetings set out in these Bylaws are followed.
